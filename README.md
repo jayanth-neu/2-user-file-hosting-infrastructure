@@ -10,6 +10,6 @@
 
 # Serverless and WebApp repos
 
-[Click here for Serverless repo](https://github.com/SaiChandGhanta/3-user-file-hosting-serverless)
+[Click here for Serverless repo](https://github.com/jayanth-neu/3-user-file-hosting-serverless)
 
-[Click here for WebApp repo](https://github.com/SaiChandGhanta/1-user-file-hosting-webapp)
+[Click here for WebApp repo](https://github.com/jayanth-neu/1-user-file-hosting-webapp)
